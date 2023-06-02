@@ -1,2 +1,5 @@
 theme: pages-themes/slate@v0.2.0
 show_downloads: true
+
+title: The FairVidSum Dataset
+description: A Dataset for Fair Video Summarization
